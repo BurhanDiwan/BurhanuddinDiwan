@@ -70,10 +70,10 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 
 | Status | Project | Progress |
 |:------:|:--------|:---------|
-| 🚀 Building | **CA Smart Assistant** | ![90%](https://progress-bar.xyz/90/?width=180&color=38bdf8) |
-| 💰 Building | **Expense Tracker** | ![80%](https://progress-bar.xyz/80/?width=180&color=22c55e) |
+| 🚀 Complete | **CA Smart Assistant** | ![95%](https://progress-bar.xyz/90/?width=180&color=38bdf8) |
+| 💰 Complete | **Expense Tracker** | ![100%](https://progress-bar.xyz/80/?width=180&color=22c55e) |
 | 🌌 Building | **3D Portfolio** | ![25%](https://progress-bar.xyz/25/?width=180&color=a855f7) |
-| 🤖 Learning | **AI / Machine Learning** | ![20%](https://progress-bar.xyz/20/?width=180&color=f59e0b) |
+| 🤖 Building | **Ubhada Publicity** | ![20%](https://progress-bar.xyz/20/?width=180&color=f59e0b) |
 
 </div>
 
@@ -110,11 +110,7 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 <br/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<br/>
 
-**Currently Learning**
-<br/>
-<img src="https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge&logo=leetcode&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
