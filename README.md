@@ -75,9 +75,9 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 | Status | Project | Progress |
 |:------:|:--------|:---------|
 | 🚀 Building | **CA Smart Assistant** | ![90%](https://progress-bar.xyz/90/?width=180&color=38bdf8) |
-| 💰 Building | **Expense Tracker** | ![80%](https://progress-bar.xyz/80/?width=180&color=22c55e) |
-| 🌌 Building | **3D Portfolio** | ![25%](https://progress-bar.xyz/25/?width=180&color=a855f7) |
-| 🤖 Learning | **AI / Machine Learning** | ![20%](https://progress-bar.xyz/20/?width=180&color=f59e0b) |
+| 💰 Building | **Expense Tracker** | ![100%](https://progress-bar.xyz/80/?width=180&color=22c55e) |
+| 🌌 Building | **3D Portfolio** | ![20%](https://progress-bar.xyz/25/?width=180&color=a855f7) |
+| 🤖 Learning | **AI / Machine Learning** | ![15%](https://progress-bar.xyz/20/?width=180&color=f59e0b) |
 
 </div>
 
