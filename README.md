@@ -103,7 +103,7 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 **Backend & Database**
 <br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <br/>
 
 **Tools & Platforms**
@@ -145,8 +145,8 @@ A professional web application built to assist Chartered Accountants with smart,
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurhanDiwan/YOUR_REPO_NAME)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_DEMO_LINK)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurhanDiwan/ca-assistant-app.git)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://ca-assistant-app-gamma.vercel.app/login)
 
 </td>
 <td width="50%" valign="top">
@@ -167,8 +167,8 @@ A clean expense management app that helps users track spending, manage budgets, 
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurhanDiwan/YOUR_REPO_NAME)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_LIVE_DEMO_LINK)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)]([(https://github.com/BurhanDiwan/expense-tracker-react-project.git)])
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://expense-tracker-react-project-mocha.vercel.app/)
 
 </td>
 </tr>
