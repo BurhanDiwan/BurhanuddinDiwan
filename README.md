@@ -48,8 +48,6 @@
 
 ## &nbsp;🧭&nbsp; About Me
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="coding gif" />
-
 I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into clean, functional, and scalable web products. I work primarily with **React**, **Redux Toolkit**, and **Firebase**, and I care deeply about writing code that is simple, readable, and built to last.
 
 - 🎓 &nbsp;**Education:** BSc.IT Student — Swarrnim Startup and Innovation University
@@ -58,8 +56,6 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 - 🛠️ &nbsp;**Currently Building:** CA Smart Assistant & a 3D Portfolio
 - 💡 &nbsp;**Philosophy:** Simple code, strong fundamentals, consistent shipping
 - 🌱 &nbsp;**Belief:** Every project is a lesson in disguise
-
-<br clear="right"/>
 
 <br/>
 
@@ -75,9 +71,9 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 | Status | Project | Progress |
 |:------:|:--------|:---------|
 | 🚀 Building | **CA Smart Assistant** | ![90%](https://progress-bar.xyz/90/?width=180&color=38bdf8) |
-| 💰 Building | **Expense Tracker** | ![100%](https://progress-bar.xyz/80/?width=180&color=22c55e) |
-| 🌌 Building | **3D Portfolio** | ![20%](https://progress-bar.xyz/25/?width=180&color=a855f7) |
-| 🤖 Learning | **AI / Machine Learning** | ![15%](https://progress-bar.xyz/20/?width=180&color=f59e0b) |
+| 💰 Building | **Expense Tracker** | ![80%](https://progress-bar.xyz/80/?width=180&color=22c55e) |
+| 🌌 Building | **3D Portfolio** | ![25%](https://progress-bar.xyz/25/?width=180&color=a855f7) |
+| 🤖 Learning | **AI / Machine Learning** | ![20%](https://progress-bar.xyz/20/?width=180&color=f59e0b) |
 
 </div>
 
@@ -90,42 +86,37 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 
 ## &nbsp;🧰&nbsp; Tech Arsenal
 
-<br/>
+<div align="center">
 
 **Languages**
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<br/>
 
 **Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<br/>
 
 **Backend & Database**
-
+<br/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-**Tools & Platforms**
+<br/>
 
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<br/>
 
 **Currently Learning**
+<br/>
+<img src="https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge&logo=leetcode&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/DSA-2E8B57?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</div>
 
 <br/>
 
@@ -279,9 +270,9 @@ Next
 
 - ✔️ Data Structures & Algorithms
 - ✔️ Next.js
+- ✔️ Node.js
 - ✔️ Three.js & GSAP for 3D/Motion
-- ✔️ Machine Learning Fundamentals
-- ✔️ Large Language Models (LLMs)
+- ✔️ Python
 
 <br/>
 
@@ -294,7 +285,7 @@ Next
 
 - [x] Build Production-Ready Projects
 - [x] Master React & Redux Ecosystem
-- [ ] Ship 3D Portfolio
+- [ ]  3D Portfolio
 - [ ] Learn Machine Learning
 - [ ] Learn LLMs & AI Engineering
 - [ ] Contribute to Open Source
@@ -317,35 +308,6 @@ Next
 | 📱 **Responsive Design** | Mobile-first, fluid across devices |
 | ♿ **Accessibility** | Semantic HTML, inclusive UX |
 | ⚡ **Performance** | Fast loads, optimized rendering |
-
-</div>
-
-<br/>
-
-<!-- ================================================================= -->
-<!-- GITHUB ANALYTICS -->
-<!-- Replace BurhanDiwan if username changes -->
-<!-- ================================================================= -->
-
-## &nbsp;📊&nbsp; GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BurhanDiwan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BurhanDiwan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BurhanDiwan&theme=tokyonight&hide_border=true&background=0f172a&stroke=38bdf8&ring=38bdf8&fire=f59e0b&currStreakLabel=e2e8f0" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BurhanDiwan&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=38bdf8&line=38bdf8&point=e2e8f0" width="95%"/>
-
-<br/><br/>
-
-<!-- Contribution calendar heatmap alternative -->
-<img src="https://ghchart.rshah.org/38bdf8/BurhanDiwan" width="95%" alt="contribution calendar"/>
 
 </div>
 
@@ -387,38 +349,6 @@ Next
 <div align="center">
 
 <img src="https://profile-counter.glitch.me/BurhanDiwan/count.svg" width="220"/>
-
-</div>
-
-<br/>
-
-<!-- ================================================================= -->
-<!-- CONNECT -->
-<!-- Remove any platform you don't actually use -->
-<!-- ================================================================= -->
-
-## &nbsp;🤝&nbsp; Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="mailto:burhandiwan78@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/YOUR_DISCORD">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 
 </div>
 
