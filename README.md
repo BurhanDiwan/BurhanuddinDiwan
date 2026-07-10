@@ -72,8 +72,8 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 |:------:|:--------|:---------|
 | 🚀 Complete | **CA Smart Assistant** | ![95%](https://progress-bar.xyz/95/?width=180&color=38bdf8) |
 | 💰 Complete | **Expense Tracker** | ![100%](https://progress-bar.xyz/100/?width=180&color=22c55e) |
-| 🌌 Building | **3D Portfolio** | ![25%](https://progress-bar.xyz/20/?width=180&color=a855f7) |
-| 🤖 Building | **Ubhada Publicity** | ![20%](https://progress-bar.xyz/25/?width=180&color=f59e0b) |
+| 🌌 Building | **3D Portfolio** | ![40%](https://progress-bar.xyz/40/?width=180&color=a855f7) |
+| 🤖 Building | **Ubhada Publicity** | ![20%](https://progress-bar.xyz/20/?width=180&color=f59e0b) |
 
 </div>
 
@@ -196,7 +196,7 @@ An upcoming personal portfolio built with immersive 3D visuals and smooth motion
 </td>
 <td width="50%" valign="top">
 
-### ➕ Your Next Project
+### ➕ UBHADA PUBLICITY
 **Status:** ![Coming Soon](https://img.shields.io/badge/Coming_Soon-6b7280?style=flat-square)
 
 Reserved slot — drop in your next build here with a short description of the problem it solves.
@@ -250,44 +250,14 @@ Present
   ▼
 Next
   │
-  └── AI Engineering — ML & LLMs
+  └── Backend & MERN Stack
 ```
 
 </div>
 
 <br/>
 
-<!-- ================================================================= -->
-<!-- CURRENT LEARNING -->
-<!-- Keep this list updated with what you're actively studying -->
-<!-- ================================================================= -->
 
-## &nbsp;📘&nbsp; Current Learning
-
-- ✔️ Data Structures & Algorithms
-- ✔️ Next.js
-- ✔️ Node.js
-- ✔️ Three.js & GSAP for 3D/Motion
-- ✔️ Python
-
-<br/>
-
-<!-- ================================================================= -->
-<!-- GOALS -->
-<!-- Adjust roadmap items as goals are achieved or added -->
-<!-- ================================================================= -->
-
-## &nbsp;🏁&nbsp; Goals
-
-- [x] Build Production-Ready Projects
-- [x] Master React & Redux Ecosystem
-- [ ]  3D Portfolio
-- [ ] Learn Machine Learning
-- [ ] Learn LLMs & AI Engineering
-- [ ] Contribute to Open Source
-- [ ] Land a Full Stack Developer Internship
-
-<br/>
 
 <!-- ================================================================= -->
 <!-- CODING PRINCIPLES -->
@@ -307,19 +277,6 @@ Next
 
 </div>
 
-<br/>
-
-<!-- ================================================================= -->
-<!-- TROPHIES -->
-<!-- ================================================================= -->
-
-## &nbsp;🏆&nbsp; Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BurhanDiwan&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-
-</div>
 
 <br/>
 
