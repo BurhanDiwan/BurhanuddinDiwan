@@ -54,7 +54,6 @@ I'm **Burhanuddin Diwan**, a Full Stack Developer who enjoys turning ideas into 
 - 🎯 &nbsp;**Current Focus:** Becoming a proficient Full Stack Web Developer
 - 🚀 &nbsp;**Future Goal:** Learning ML & LLMs to grow into an AI Engineer
 - 🛠️ &nbsp;**Currently Building:** CA Smart Assistant & a 3D Portfolio
-- 💡 &nbsp;**Philosophy:** Simple code, strong fundamentals, consistent shipping
 - 🌱 &nbsp;**Belief:** Every project is a lesson in disguise
 
 <br/>
@@ -299,11 +298,6 @@ Next
 <!-- Duplicate widget kept small & centered as a footer stat -->
 <!-- ================================================================= -->
 
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/BurhanDiwan/count.svg" width="220"/>
-
-</div>
 
 <br/>
 
